@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Thinh Nguyen</h1>
 
-<!--
-**DataByThinh/DataByThinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+%E2%86%92+Insight+%E2%86%92+Impact;Aspiring+Data+Scientist;Building+with+data" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 System.out.println("About Me")
+
+```python
+class Thinh:
+    def __init__(self):
+        self.role = "Undergraduate | Business Data Analytics"
+        self.goal = "Data Scientist"
+        self.focus = [
+            "Data-driven thinking",
+            "Real-world problem solving",
+            "End-to-end data projects"
+        ]
+
+    def mindset(self):
+        return "Learn → Build → Improve → Repeat"
+
