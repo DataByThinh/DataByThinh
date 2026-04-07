@@ -46,10 +46,10 @@ Rising junior at UConn — building data workflows that bring structure to messy
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thinh-nguyen-tien/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tnthinh.nguyen08@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="42"/>
   </a>
 </p>
