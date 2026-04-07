@@ -42,16 +42,14 @@ Rising junior at UConn — building data workflows that bring structure to messy
 
 ---
 
-## Current Focus
+## ☕Connect with Me
 
-- Building end-to-end data projects  
-- Strengthening data analysis and SQL skills  
-- Learning how to turn messy data into clear business insights  
-- Growing toward a career in Data Science
-
----
-
-## Mindset
-
-```text
-Learn → Build → Improve → Repeat
+<p align="center">
+  <a href="https://www.linkedin.com/in/thinh-nguyen-tien/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tnthinh.nguyen08@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="50"/>
+  </a>
+</p>
