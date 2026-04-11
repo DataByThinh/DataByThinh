@@ -30,6 +30,8 @@ Rising junior at UConn — building data workflows that bring structure to messy
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-2F3437?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-3B82F6?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
