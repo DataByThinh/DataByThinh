@@ -7,11 +7,9 @@
 
 ## 👋 About Me
 
-**Thinh Nguyen** · Business Data Analytics @ UConn · Class of 2028
+### **Thinh Nguyen** · Business Data Analytics @ UConn · Class of 2028
 
-Junior-year analyst building the foundations of a career at the intersection of
-data science and business intelligence. I design data workflows that transform
-raw, unstructured information into structured insight — and ultimately, into decisions
+Junior-year analyst building the foundations of a career at the intersection of data science and business intelligence. I design data workflows that transform raw, unstructured information into structured insight — and ultimately, into decisions
 
 Currently seeking opportunities in **Data Science**, **Business Intelligence**, or **Analytics Engineering**.
 
