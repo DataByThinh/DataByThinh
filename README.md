@@ -7,9 +7,13 @@
 
 ## 👋 About Me
 
-Hi, I’m **Thinh Nguyen** — feel free to call me **T**.
+**Thinh Nguyen** · Business Data Analytics @ UConn · Class of 2028
 
-Rising junior at UConn — building data workflows that bring structure to messy, real-world data at the intersection of `Data Science` and `Business At Scale`.
+Junior-year analyst building the foundations of a career at the intersection of
+data science and business intelligence. I design data workflows that transform
+raw, unstructured information into structured insight — and ultimately, into decisions
+
+Currently seeking opportunities in **Data Science**, **Business Intelligence**, or **Analytics Engineering**.
 
 ---
 
