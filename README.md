@@ -1,17 +1,23 @@
+
 <h1 align="center">Thinh Nguyen</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0C2340&center=true&vCenter=true&width=600&lines=Data+%E2%86%92+Insight+%E2%86%92+Impact;Pursuing+Data+Science;Building+with+real-world+data" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0C2340&center=true&vCenter=true&width=700&lines=Data+%E2%86%92+Insight+%E2%86%92+Impact;Analytics+Engineering+%7C+Data+Science+%7C+BI;Building+decision-ready+data+products" />
+</p>
+
+<p align="center">
+  <b>Business Data Analytics @ UConn · Class of 2028</b><br>
+
+</p>
+
 
 ---
 
 ## 👋 About Me
 
-### **Thinh Nguyen** · Business Data Analytics @ UConn · Class of 2028
+Turning raw data into pipelines, models, dashboards, and business decision
 
-Junior-year analyst building the foundations of a career at the intersection of data science and business intelligence. I design data workflows that transform raw, unstructured information into structured insight — and ultimately, into decisions
-
-Currently seeking opportunities in **Data Science**, **Business Intelligence**, or **Analytics Engineering**.
+Currently seeking opportunities in **Data Science**/ **Analytics Engineering**/ **Business Intelligence**
 
 ---
 
