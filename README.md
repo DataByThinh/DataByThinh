@@ -2,7 +2,7 @@
 <h1 align="center">Thinh Nguyen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0C2340&center=true&vCenter=true&width=700&lines=Data+%E2%86%92+Insight+%E2%86%92+Impact;+%7C+Data+Science+%7C+BI;Building+decision-ready+data+products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0C2340&center=true&vCenter=true&width=700&lines=Data+%E2%86%92+Insight+%E2%86%92+Impact;Data+Analyst+%7C+BI+Analyst+%7C+Data+Science;Building+decision-ready+data+products" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 Turning raw data into pipelines, models, dashboards, and business decision
 
-Currently seeking opportunities in **Data Science**/ **Analytics Engineering**/ **Business Intelligence**
+Currently seeking opportunities in **Data Science**/ **Analytics Engineering**/ **Business Intelligence Analyst**
 
 ---
 
